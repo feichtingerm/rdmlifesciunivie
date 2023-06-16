@@ -28,7 +28,7 @@ Will We be Graded?
 --------------------
 Diligent student that you are, you may be wondering about assignments, quizzes, and grades. The simple answer is that there are no grades. You signed-up for this course because you have an interest in learning more about RDM. We agreed to teach the course because we like teaching about RDM and think students are the most fun to support. Throughout the Moodle modules, there are some self-knowledge quizzes. Most are multiple-choice and you can attempt them as often as you like. No one is keeping score. Actually, the code we used to build this course is digitally incapable of it. 
     
-![XKCD Priorities](https://imgs.xkcd.com/comics/priorities.png " [Priorities by XKCD](https://xkcd.com/336), [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/legalcode0)")
+![XKCD Priorities](https://imgs.xkcd.com/comics/priorities.png " [Priorities by XKCD](https://xkcd.com/336),[CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/legalcode0)")
 
 
 
