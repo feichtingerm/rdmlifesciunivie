@@ -31,6 +31,7 @@ Diligent student that you are, you may be wondering about assignments, quizzes, 
 ![XKCD Priorities](https://imgs.xkcd.com/comics/priorities.png "[Priorities by XKCD](https://xkcd.com/336), [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/legalcode0)")
 
 
+
 The Pre-Learning Assessment 
 --------------------
 With that said, there is one place where we will be recording your answers. That’s the prior knowledge assessment. **YOU SHOULD COMPLETE THE PRIOR KNOWLEDGE ASSESSMENT BEFORE DOING ANY OF THE COURSE MODULES.** This assessment allows us to track your knowledge level before you started the course, so that we can estimate what you have learned during your time with us. We know it might be tempting to reach for Google or ChatGPT while you fill-out the assessment, but please don’t! Just try to answer the questions. Your answers can be vague. “I don’t know the answer to this question” is even a valid response. Honestly, this assessment tests out abilities as educators, not your knowledge as a student.
