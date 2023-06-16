@@ -1,6 +1,6 @@
 # Research Data Management for the Life Sciences
 
-
+[Explanatory README will be added soon]
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
