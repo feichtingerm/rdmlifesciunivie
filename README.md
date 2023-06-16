@@ -1,4 +1,5 @@
-# rdmlifesciunivie
+# Research Data Management for the Life Sciences
+
 
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
