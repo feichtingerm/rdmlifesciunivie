@@ -746,9 +746,9 @@ If you have a repository in mind:
 
 If you do not know yet what repository you will use, look for what is the recommended minimal information (i.e. “Minimum Information ...your topic”, e.g. [MIAME](https://www.fged.org/projects/miame) or [MINSEQE](https://www.fged.org/projects/minseqe) or [MIAPPE](https://www.miappe.org)) required for your type of data in your community, or other metadata, at the following resources:
 
-  * [Research Data Alliance (RDA): Metadata Dictionary: Standards](https://rd-alliance.github.io/metadata-directory/standards/)
-  * [FAIRsharing.org](https://fairsharing.org) at “Standards” and “Collections”
-  * [The Digital Curation Centre (DCC): List of Metadata Standards](https://www.dcc.ac.uk/guidance/standards/metadata/list)
+- [Research Data Alliance (RDA): Metadata Dictionary: Standards](https://rd-alliance.github.io/metadata-directory/standards/)
+- [FAIRsharing.org](https://fairsharing.org) at “Standards” and “Collections”
+- [The Digital Curation Centre (DCC): List of Metadata Standards](https://www.dcc.ac.uk/guidance/standards/metadata/list)
 
 Please note that for certain data types, metadata standards may not be established by the research community. In such cases, README files are commonly used to describe the datasets (see below).^1^
 
