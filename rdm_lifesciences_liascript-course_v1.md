@@ -1198,7 +1198,7 @@ If your research project involves living animals, you may need special approval 
 
 ### The Nagoya Protocol
 The “Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization” (NP) is an international treaty that came into force on October 12th 2014. It aims to ensure that any access to genetic resources and its derivatives (e.g. metabolites, lipids, enzymes) is done under fair conditions and any benefits (e.g. commercialization, but also more general any type of knowledge gain) that stem from the utilization of genetic resources is shared equitably with the provider country. The NP **applies to all research and utilization of genetic resources, both for commercial and non-commercial purpose**, and includes applied and basic research. To comply with the NP, researchers must obtain permits for their planned research from the provider country and submit due diligance declarations in the user country.
-For legal support with NP you can contact Sofiia Myklush (sofiia.myklush@univie.ac.at) at UNIVIE [Technologytransfer](https://transfer.univie.ac.at/en/team-and-contact/).
+For legal support with NP you can contact Sofiia Myklush (sofiia.myklush@univie.ac.at) at UNIVIE [Technologytransfer.](https://transfer.univie.ac.at/en/team-and-contact/)
 In addition, Kathi Kitzinger (katharina.kitzinger@univie.ac.at) is organizing an informal Nagoya Protocol “Stammtisch” (regulars’ table) at CMESS where everyone can exchange experiences with the NP.
 
 ### International Transport of Samples
