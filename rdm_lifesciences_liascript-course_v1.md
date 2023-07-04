@@ -12,7 +12,7 @@ comment:  Online self-study part of the RDM for the Life Sciences Workshop for D
 -->
 
 ## Orientation
-Welcome the Research Data Management Course for the Life Sciences! 
+Welcome to the Research Data Management Course for the Life Sciences! 
 ====================
 We’re so glad you’re here. Since you found your way to this page, you must have signed up for the course via one of the University of Vienna Doctoral Schools associated with the Centre for Microbiology and Environmental Systems Science or the Faculty of Life Sciences.
 
@@ -38,7 +38,7 @@ With that said, there is one place where we will be recording your answers. That
 
 The Course Map
 --------------------
-![Course Map](https://raw.githubusercontent.com/feichtingerm/rdmlifesciunivie/main/RDM%20Online%20Course.jpg)
+![Course Map](https://raw.githubusercontent.com/feichtingerm/rdmlifesciunivie/main/RDMCourseMap.jpg)
 
 Bye! 
 --------------------
@@ -143,7 +143,7 @@ Data management planning consists of defining the strategy that you plan to use 
 
 Step 2: Collecting
 --------------------
-Data collection is the process where information is gathered about specific variables of interest either using instrumentation or other methods (e.g. questionnaires, patient records). While data collection methods depend on the field and research subject, it is important to ensure data quality. You can also reuse existing data in your project. This can either be individual earlier collected datasets, reference data from curated resources or consensus data like reference genomes.^1^ We will talk more about reusing data in just a minute.
+Data collection is the process where information is gathered about specific variables of interest either using instrumentation or other methods (e.g. questionnaires, patient records). While data collection methods depend on the field and research subject, it is important to ensure data quality. Data collection could also mean reusing existing data in your project. This can either be individual earlier collected datasets, reference data from curated resources or consensus data like reference genomes.^1^ We will talk more about reusing data in just a minute.
 
 ![The Upturned Microscope Change the Data](https://upmic.files.wordpress.com/2023/03/comic-14-change-the-data.png?w=650 " [Change the Data by Upturned Microscope](https://upmic.files.wordpress.com/2023/03/comic-14-change-the-data.png?w=650), [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/)")
 
@@ -383,7 +383,7 @@ We recommend looking at both templates to familiarize yourself. You can find the
 [ERC/Horizon Europe DMP Manual](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
 [FWF DMP Template](https://www.fwf.ac.at/fileadmin/files/Dokumente/Open_Access/FWF_DMPTemplate_e.docx)
 
-![Errant Scientist Data Management Plan Quality](https://scontent-vie1-1.xx.fbcdn.net/v/t31.18172-8/23916468_1990372521252055_5342830523000209050_o.png?stp=dst-png_p960x960&_nc_cat=104&ccb=1-7&_nc_sid=36a2c1&_nc_ohc=Do_LDFxB8sUAX-FTcmN&_nc_ht=scontent-vie1-1.xx&oh=00_AfBIsJqo2cJA2hToQp9k8g2njnm88DBm0_H0Ttd8CJzTuw&oe=649FCDE6 "[Quality of Data Management Plans Remains Variable by Errant Science](https://www.facebook.com/ErrantScience/photos/pcb.1990372917918682/1990372521252055/?type=3&theater), [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)")
+![Errant Scientist Data Management Plan Quality]([https://pasteboard.co/wNFNEbBN8Jsn.png] "[Quality of Data Management Plans Remains Variable by Errant Science](https://www.facebook.com/ErrantScience/photos/pcb.1990372917918682/1990372521252055/?type=3&theater), [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)")
 
 As we said above, if you are submitting a DMP to a granting agency you should use the template provided, but if no template is available or you are writing the DMP for your own reference, we highly recommend using the FWF materials to assist you. Overall, the FWF provides a thorough list of issues you should consider and gives a good list of practical questions to answer. 
 
@@ -710,8 +710,10 @@ When documenting your data you should keep the following things in mind:
 
 - Write the documentation in such a way that someone else who is known to the field cannot misinterpret any of the data. 
 - Independently of the tools you will use, data documentation is needed at two levels: documentation about the entire study or project and documentation about individual records, observations or data points.
+
   - Study-level documentation describes the project title and summary, study aims, authors, institutions involved, funds, methods, licence and identifier for each dataset, folders structure, file naming conventions, versioning system, relation between files or tables and other general information.
   - Data-level documentation provides information about individual records or data point, such as the meaning of each variable name, label, ID or type (numeric, string, regular expression, date, etc.), units (i.e., cm, kg…), experimental factors, categories, controlled vocabulary or ontology terms accepted as values for each variable, missing values code and so on. An example could be a data file that contains a "sex" field: someone known to the field could try to misinterpret that from "external sex organs present at birth" to "chromosomal XX or XY" or "high or low testosterone level" or "social gender" or other. In order to avoid this, the way the assignment is made must be part of the documentation or of the data itself (controlled vocabulary).
+
 - Both the study- and data-level documentation must be generated as early as possible in the research process and also maintained, in order to be accurate and complete
 - Documentation is also required when publishing your data. General-purpose repositories usually require only study-level documentation, while discipline-specific repositories generally require both study-level and data-level documentation. Importantly, repositories often accept data and documentation in a very strict format: they can require a predefined set of attributes or fields (metadata checklists) to be filled, ontology terms to be used, specific (meta)data schemas to be adopted. We recommend familiarising yourself with  the requirements of the repositories that could be appropriate for publishing your data already at the beginning of the project, so that you can start documenting and formatting your data accordingly as early as possible.
 - Make sure the documentation is kept close to the data, so that nobody will be exposed to the data without being able to find the documentation.
@@ -1054,7 +1056,8 @@ Common criteria to select the data to preserve for a certain amount of time are:
 - data of great value for society (scientifically, historically or culturally)^1^
 
 
-When preparing data for preservation several requirements need to be fulfilled.
+When preparing data for preservation several requirements need to be fulfilled:
+
 - Do not include data that are temporary or mutable.
 - Ensure well described and self-explanatory documentation.
 - Include information about provenance.
