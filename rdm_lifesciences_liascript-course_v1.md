@@ -383,7 +383,7 @@ We recommend looking at both templates to familiarize yourself. You can find the
 [ERC/Horizon Europe DMP Manual](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
 [FWF DMP Template](https://www.fwf.ac.at/fileadmin/files/Dokumente/Open_Access/FWF_DMPTemplate_e.docx)
 
-![Errant Scientist Data Management Plan Quality](https://pasteboard.co/wNFNEbBN8Jsn.png "[Quality of Data Management Plans Remains Variable by Errant Science](https://www.facebook.com/ErrantScience/photos/pcb.1990372917918682/1990372521252055/?type=3&theater), [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)")
+![Errant Scientist Data Management Plan Quality](https://gcdnb.pbrd.co/images/wNFNEbBN8Jsn.png?o=1 "[Quality of Data Management Plans Remains Variable by Errant Science](https://www.facebook.com/ErrantScience/photos/pcb.1990372917918682/1990372521252055/?type=3&theater), [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)")
 
 As we said above, if you are submitting a DMP to a granting agency you should use the template provided, but if no template is available or you are writing the DMP for your own reference, we highly recommend using the FWF materials to assist you. Overall, the FWF provides a thorough list of issues you should consider and gives a good list of practical questions to answer. 
 
