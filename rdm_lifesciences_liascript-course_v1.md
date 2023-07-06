@@ -3,7 +3,7 @@ author:   Emily Jean Kate, Michael Feichtinger
 
 email:    emily.jean.kate@univie.ac.at, michael.feichtinger@univie.ac.at
 
-version:  1.0.0
+version:  1.0
 
 language: en
 
@@ -38,7 +38,7 @@ With that said, there is one place where we will be recording your answers. That
 
 The Course Map
 --------------------
-![Course Map](https://raw.githubusercontent.com/feichtingerm/rdmlifesciunivie/main/RDMCourseMap.jpg)
+![Course Map](https://raw.githubusercontent.com/feichtingerm/rdmlifesciunivie/main/images/RDMCourseMap.jpg)
 
 Bye! 
 --------------------
@@ -805,8 +805,8 @@ Such well-structured project-level README that encompasses the aforementioned in
 
 Here is an example how such README file could look like:
 
-![README File Example1](https://raw.githubusercontent.com/feichtingerm/rdmlifesciunivie/afcb40c4e0de2cc7edbdefa72e7b16d0b6bc32fd/projectlevelreadme_example.png)
-![README File Example2](https://raw.githubusercontent.com/feichtingerm/rdmlifesciunivie/afcb40c4e0de2cc7edbdefa72e7b16d0b6bc32fd/filetree_example.png " [README File Examples](https://zenodo.org/record/7573695/files/3-2_Espresso_READMEs.pdf?download=1), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) ")
+![README File Example1](https://raw.githubusercontent.com/feichtingerm/rdmlifesciunivie/main/images/projectlevelreadme_example.png)
+![README File Example2](https://raw.githubusercontent.com/feichtingerm/rdmlifesciunivie/main/images/filetree_example.png " [README File Examples](https://zenodo.org/record/7573695/files/3-2_Espresso_READMEs.pdf?download=1), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) ")
 
 Please keep in mind that the provided format may not be optimized for machine-readability when compared to formats such as JSON files.
 
@@ -1242,7 +1242,7 @@ The CARE principles are designed to take into account the complex social, politi
 
 **To find help, you can send an email to rdm@univie.ac.at or go to the totally awesome UNIVIE Research Data Management Homepage at rdm.univie.ac.at!**
 
-![RDM Homepage at UNIVIE](https://raw.githubusercontent.com/feichtingerm/rdmlifesciunivie/main/RDMWebpage.PNG)
+![RDM Homepage at UNIVIE](https://raw.githubusercontent.com/feichtingerm/rdmlifesciunivie/main/images/RDMWebpage.PNG)
 
 **If you are part of the Faculty of Life Sciences or the Center for Microbiology and Environmental Systems Science you can also contact your data steward directly.**
 
