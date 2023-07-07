@@ -18,8 +18,8 @@ The online modules are written in LiaScript, a Markdown dialect, making it conve
 For a comprehensive guide on utilizing the materials for the in-person workshop, please consult the activities guide for detailed instructions. Additionally, it is feasible to deliver the workshop in an online format with some slight modifications.
 
 ## Contributors
-* Emily J. Kate (Data Steward, Faculty of Life Sciences, University of Vienna)
-* Michael Feichtinger (Data Steward, Centre for Microbiology and Environmental Systems Science, University of Vienna)
+* Emily J. Kate (Data Steward, Faculty of Life Sciences, University of Vienna, Austria)
+* Michael Feichtinger (Data Steward, Centre for Microbiology and Environmental Systems Science, University of Vienna, Austria)
 
 ## License
 
