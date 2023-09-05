@@ -20,7 +20,7 @@ Before we delve into the exciting world of Research Data Management (RDM), we wa
 
 Blended Learning and Our Plan
 --------------------
-This course is designed around a concept called “blended learning”, which is a fancy way of saying that we use both online and in-person learning resources. In our case, you will have until June 28th to complete the online modules here on Moodle. The Moodle portion of the course should take you around 2.5 hours and we recommend you complete the modules in-order. On June 29th and June 30th, we will meet in-person in UBB SR 1.3 to delve deeper into the mysteries of RDM. Intriguing, we know. 
+This course is designed around a concept called “blended learning”, which is a fancy way of saying that we use both online and in-person learning resources. In our case, you will have until October 9th to complete the online modules here on Moodle. The Moodle portion of the course should take you around 2.5 hours and we recommend you complete the modules in-order. On October 10th and October 11th, we will meet in-person in UBB SR 1.6 (10th) and SR 1.3 (11th) to delve deeper into the mysteries of RDM. Intriguing, we know. 
 
 ![The Upturned Microscope](https://upmic.files.wordpress.com/2019/05/epfl-may2019-flipped-classroom.png?w=650&h=199 " [Flipped Classroom by Upturned Microscope](https://upmic.files.wordpress.com/2019/05/epfl-may2019-flipped-classroom.png?w=650&h=199),[CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/)")
 
@@ -332,7 +332,9 @@ There are several schools of thought motivating open research practices, but the
 |The access to knowledge should be equally distributed, but currently is not.|Generate new systems that ensure knowledge is freely available for everyone.|
 |Research is publicly funded and needs to be made accessible to the public.|Develop ways of making research accessible for citizens and reward researchers invest time in thsi practice.|
 
-You might think that these beliefs and goals sound great, but you're an early career researcher. You're worried about getting your next position, producing well-cited papers, securing grants, and making a name for yourself. You're not vane, you just know that academic job market is a bit of a jungle. So, here's another RDM secret. Researchers have studied publication dynamics  there seems to be be significant evidence supporting the hypothesis that open access articles are cited more often than those published under more restricted conditions. To learn more, we highly recommend reading [McKiernan et al's 2016 paper](https://doi.org/10.7554/eLife.16800) discussing this issue. 
+You might think that these beliefs and goals sound great, but you're an early career researcher. You're worried about getting your next position, producing well-cited papers, securing grants, and making a name for yourself. You're not vane, you just know that academic job market is a bit of a jungle. So, here's another RDM secret. Researchers have studied publication dynamics  there seems to be be significant evidence supporting the hypothesis that open access articles are cited more often than those published under more restricted conditions. To learn more, we highly recommend reading [McKiernan et al's 2016 paper](https://doi.org/10.7554/eLife.16800) discussing this issue.
+
+If you intend to publish an open-access article at UNIVIE and do not have grant funding, such as from FWF or EU funding, covering the OA publication fees, it is advisable to check out the [Open Access Office](https://openaccess.univie.ac.at/en/), which can provide funding for the publication fees.
 
 Quiz
 ================
