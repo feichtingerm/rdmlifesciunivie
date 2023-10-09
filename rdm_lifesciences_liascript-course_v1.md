@@ -947,7 +947,7 @@ Hopefully this hasn't made you feel too overwhelmed. Remember that RDM help at U
 |[Share](https://zid.univie.ac.at/en/share/) | File storage and sharing; Managed through organizational unit| Ulimited |Between employees and students; Extended u:account available for guests  |EUR 0.03 per GB/year|Request Required|
 |[u:cloud](https://zid.univie.ac.at/en/ucloud/) | Personal file storage and sharing| 50 GB  |Between employees and students; Extended u:account available for guests  |Free|Immediate|
 |[u:cloud pro](https://zid.univie.ac.at/en/ucloud-pro/)| File storage and sharing; For projects or teams| 250 GB; expandable with justification  |Between employees and students; Outside users can upload and download  |EUR 0.03 per GB/year|Request Required|
-|[One Drive by Microsoft 365](https://zid.univie.ac.at/en/microsoft-365/)| File storage and sharing| 1 TB|Internal and external sharing; Non-university users can edit files|Free|Immediate|
+|[One Drive by Microsoft 365](https://zid.univie.ac.at/en/microsoft-365/)| File storage and sharing| 50 GB|Internal and external sharing; Non-university users can edit files|Comes together with MS365 license for university employees|Immediate|
 |[Gitlab*](https://zid.univie.ac.at/en/gitlab/)| Storing code; Version control| Unlimited; Code and supporting documentation|	Permissions and licensing options available|Free|Request Required|
 |[Central Backup](https://zid.univie.ac.at/en/central-backup/)| For files not otherwised backed-up; Requires some user maintenance| Unlimited|None|Free|Request Required|
 
