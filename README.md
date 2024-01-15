@@ -1,6 +1,6 @@
 # Research Data Management for the Life Sciences
 Welcome to the Research Data Management (RDM) for Life Science Course! This course is designed to equip PhD candidates from the Faculty of Life Sciences and the Centre for Microbiology and Environmental Systems Science at the University of Vienna with the fundamental knowledge and practical skills required to manage research data effectively throughout its lifecycle.
-[![DOI](https://zenodo.org/badge/653062452.svg)](https://zenodo.org/doi/10.5281/zenodo.10512974)
+
 
 ## Description
 The course is structured as a blended learning experience, combining online self-study modules created with [LiaScript](https://liascript.github.io/) and an in-person workshop (6 hours). It is specifically tailored for PhD candidates, but suitable for all beginners in research data management and covers the following topics:
@@ -26,6 +26,8 @@ For a comprehensive guide on utilizing the materials for the in-person workshop,
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
+
+[![DOI](https://zenodo.org/badge/653062452.svg)](https://zenodo.org/doi/10.5281/zenodo.10512974)
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
