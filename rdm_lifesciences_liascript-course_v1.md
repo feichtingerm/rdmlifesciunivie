@@ -140,11 +140,11 @@ The cycle begins again when someone incorporates your data into their project or
 
 Step 1: Planning 
 --------------------
-Data management planning consists of defining the strategy that you plan to use for managing data and documentation generated within the project. It is about thinking upfront what’s the best way to avoid problems or unexpected costs related to data management, and set the conditions for your research data to achieve the highest possible impact in science, even after the end of the project.1 One of the most common ways to articulate this strategy is with a data management plan (DMP). You probably have questions about how to write a DMP, but we will cover that more in the next section. 
+Data management planning consists of defining the strategy that you will use for managing data and documentation generated within a project. It is about considering the best way to avoid problems or unexpected costs related to data management and setting-up your research data to achieve the highest possible impact in science, even after the end of the project.^1^ One of the most common ways to articulate this strategy is with a data management plan (DMP). You probably have questions about how to write a DMP, but we will cover that more in the next section. 
 
 Step 2: Collecting
 --------------------
-Data collection is the process where information is gathered about specific variables of interest either using instrumentation or other methods (e.g. questionnaires, patient records). While data collection methods depend on the field and research subject, it is important to ensure data quality. Data collection could also mean reusing existing data in your project. This can either be individual earlier collected datasets, reference data from curated resources or consensus data like reference genomes.^1^ We will talk more about reusing data in just a minute.
+Data collection is the process where information is gathered about specific variables of interest either using instrumentation or other methods (e.g. questionnaires, patient records). While data collection methods depend on the field and research subject, it is important to ensure data quality. Data collection could also mean reusing existing data in your project. This can either be individual earlier collected datasets, reference data from curated resources, or consensus data like reference genomes.^1^ We will talk more about reusing data in just a minute.
 
 ![The Upturned Microscope Change the Data](https://upmic.files.wordpress.com/2023/03/comic-14-change-the-data.png?w=650 " [Change the Data by Upturned Microscope](https://upmic.files.wordpress.com/2023/03/comic-14-change-the-data.png?w=650), [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/)")
 
@@ -160,14 +160,14 @@ Apart from being the source of information to build your findings on, the collec
 
 Step 3: Processing 
 --------------------
-Data processing is the phase in the project where data is converted into a desired format and prepared for analysis. When data has been freshly collected, data processing includes some automated steps in a workflow that perform format conversion, quality check and preprocessing following a standardised protocol. The main aim of processing is to:
+Data processing is the phase in the project where data is converted into a desired format and prepared for analysis. When data has been freshly collected, data processing includes some automated steps in a workflow that perform format conversions, quality checks, and preprocessing following a standardised protocol. The main aim of processing is to:
 
-* Convert data into readable format giving it the shape and form necessary for downstream analysis;
+* Convert data into readable format, giving it the shape and form necessary for downstream analysis.
 * Discard bad or low quality data in order to create clean, high-quality dataset for reliable results.
 
 When data is imported from existing sources, e.g. data to be reused from another project, processing can also include manual steps to make it suitable for analysis. These steps include but are not limited to:
 
-* Making changes to data formats such that different datasets will be compatible for integration with each other;
+* Making changes to data formats such that different datasets will be compatible for integration with each other.
 * Changing coding systems or ontologies for the data to bring everything to the same level; filtering data such that only data suitable for the project is retained.
 
 After data processing, clean data is ready for analysis and should therefore be available to the members of the project team that need to perform the next steps. Data processing is important to ensure good quality of the collected data and to prepare it for meaningful data analysis. Accurate data processing is also essential for combining two or more datasets into a single dataset. An accurate documentation of every step done during data processing is key for the reproducibility of your result. Processing data correctly makes it easy to arrange, easy to analyse, and saves a lot of space.^1^
@@ -178,11 +178,11 @@ Step 4: Analyzing
 --------------------
 Data analysis begins when you finally dive into your data and use it to answer scientific questions or test hypotheses. The methods you use to analyze your data are also called a “workflow”. During many projects, workflows will likely be repeated several times and modified to increase reliability and efficiency. Always remember to keep clear records of how your workflow changes over time. You always want your workflows to be reproduceable by your team members and other researchers. This reproducibility is a central tenant of making science FAIR. Thinking about how you should analyze your data is obviously important, but you should also consider how you will document you analyses and investigations. 
 
-Here are two last tips from people who know some things because they’ve seen some things and *occasionally* made mistakes themselves. First, always keep an unedited version of your unanalyzed data stored. Never use this specific file to conduct analyses. Use a copy instead. This way, if you make a problematic edit to your data or your data gets jumbled, you can always make a copy of the original file and start again. This takes the situation from “data disaster” and "inconvenient afternoon". Second, if you are conducting analyses and find yourself confused with a million files open and an inability to think clearly, it’s probably time for a break. Take a walk. Eat something. Have a nap. Drink some water. You aren’t going to make good analytical decisions when you’re frazzled, and you certainly won’t document things properly. A 30-minute break can save you hours of headache later. 
+Here are two last tips from people who know some things because they’ve seen some things and *occasionally* made mistakes themselves. First, always keep an unedited version of your unanalysed data stored. Never use this specific file to conduct analyses. Use a copy instead. This way, if you make a problematic edit to your data or your data gets jumbled, you can always make a copy of the original file and start again. This takes the situation from “data disaster” to an "inconvenient afternoon". Second, if you are conducting analyses and find yourself confused with a million files open and an inability to think clearly, it’s probably time for a break. Take a walk. Eat something. Have a nap. Drink some water. You aren’t going to make good analytical decisions when you’re frazzled, and you certainly won’t document things properly. A 30-minute break can save you hours of headache later. 
 
 Step 5: Preserving
 --------------------
-When you hear of preserving, you might think of culinary delicacies such as smoked hams, canned pickles, or jarred jams. Sadly, this section will not be about any of those things. Data preservation is a process by which the safety, integrity, and accessibility of your data are ensured. In many cases, data should be preserved for years, or even decades. You might think that properly storing your data means it is preserved, but this is not quite the whole story. Preservation of digital information requires planning, policies, resources (time, funds, people) as well as the right technology to ensure that the data stays functional and that it can be accessed. Therefore, true data preservation, or archiving, must be done by experts and dedicated services. In most instances, special long term data repositories should be used for digital preservation, where the data is actively maintained, and information integrity is monitored.^1^ 
+When you hear of preserving, you might think of culinary delicacies such as smoked hams, canned pickles, or jarred jams. Sadly, this section will not be about any of those things. Data preservation is a process by which the safety, integrity, and accessibility of your data are ensured. In many cases, data should be preserved for years, or even decades. You might think that properly storing your data means it is preserved, but this is not quite the whole story. Preservation of digital information requires planning, policies, resources (time, funds, people) as well as the right technology to ensure that the data stays functional and that it can be accessed. Therefore, true data preservation, or archiving, must be done by experts and dedicated services. In most instances, special long term data repositories should be used for digital preservation, where the data is actively maintained and information integrity is monitored.^1^ 
 
 ![Trader Joe's Pickle Car](https://upload.wikimedia.org/wikipedia/commons/4/43/Trader_Joe%27s_-_Pickle_Car_%2812221274575%29.jpg "We know you also wish this section was about making pickles and other preserves. Sadly, it isn't, but maybe you could get yourself a pickle as a treat for making it this far.  [Source: Prayitno / Thank you for (12 millions +) view from Los Angeles, USA](https://upload.wikimedia.org/wikipedia/commons/4/43/Trader_Joe%27s_-_Pickle_Car_%2812221274575%29.jpg), [CC BY](https://creativecommons.org/licenses/by/2.0/deed.en)") 
 
@@ -205,7 +205,7 @@ We all know that “sharing is caring”, but what does sharing mean in the cont
 
 * Are you the legal rights holder for the data? 
 * Are there any ethical, legal, contractual, or intellectual property restrictions you need to consider? 
-* Are there funder or institutional requirements concerning that you are required to follow? 
+* Are there funder or institutional requirements that you are required to follow? 
 * Consider what license you should use for your data based on your needs (more about this later).^1^
 
 A little later in the course we will talk more about your data sharing and archiving options and how to select licenses for your data. If you have lots of questions, don’t worry. That’s completely normal.
