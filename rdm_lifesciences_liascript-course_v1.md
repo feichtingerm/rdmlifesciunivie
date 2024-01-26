@@ -61,8 +61,7 @@ Learning Objectives
 3. Identify the FAIR principles and give a short description of each. 
 4. Define Open Research and explain the benefits and challenges of Open Research and the FAIR Principles.
 
-Research Data
-================
+### Research Data
 We all know what research data is, right? I mean, it’s data from research. The meaning is clear. Crisis averted. We can all go home. Or maybe not… The problem starts when we delve a little deeper into what we mean by “data”. 
 
 The University of Vienna considers research data to be “all information (irrespective of its form or presentation) that supports or validates research activities (development, results, observations or findings, including contextual information). Research data comprise all materials that are created in the course of academic work, including records, source research, experiments, measurements, surveys and interviews, as well as software and code. Research data may take on various different forms: during the lifespan of a research activity, data may exist as gradations from raw data to processed data (and even include negative and inconclusive results)”.
@@ -264,24 +263,24 @@ Sharing data means that everyone will have access to the data without restrictio
 
 ### Metadata
 
-In the words of Mugatu from the legendary film *Zoolander*, metadata is “so hot right now”. Despite its seemingly sudden popularity, you might be wondering how to define metadata and what it means for your research. The University of Vienna defines metadata as information that is “used to describe managed resources in a unique and structured manner. The unique structure enables users to search for, find and select relevant resources. Metadata are a means of communication between producers and users of research data, and are crucial for making data findable.” While accurate, perhaps this definition isn’t the most helpful for someone who is trying to figure how they can document their data more fully. To get a more hands-on explanation, take a look at this video from the University of Ghent.
+In the words of Mugatu from the legendary film *Zoolander*, metadata is “so hot right now.” Despite its seemingly sudden popularity, you might be wondering how to define metadata and what it means for your research. The University of Vienna defines metadata as information that is “used to describe managed resources in a unique and structured manner. The unique structure enables users to search for, find and select relevant resources. Metadata are a means of communication between producers and users of research data, and are crucial for making data findable.” While accurate, perhaps this definition isn’t the most helpful for someone who is trying to figure how they can document their data more fully. To get a more hands-on explanation, take a look at this video from the University of Ghent.
 
 !?[Ghent University Data Stewards (2020) Knowledge Clip: Metadata](https://youtu.be/DW2T_cnqKPU "[Ghent University Data Stewards (2020) Knowledge Clip: Metadata](https://youtu.be/DW2T_cnqKPU), [CC BY](https://creativecommons.org/licenses/by/3.0/legalcode)") 
 
-Essentially, metadata is data about your data, and there are a few types you should think about: **administrative metadata**, **structural metadata**, and **descriptive metadata**. Let’s look at each type in a little more detail.
+Essentially, metadata is data about your data and there are a few types of metadata you should think about: **administrative metadata**, **structural metadata**, and **descriptive metadata**. Let’s look at each type in a little more detail.
 
 * **Administrative metadata** covers some technical and legal aspects of data creation and reuse. Administrative metadata of a technical nature often describes things like when files were created, the file types used, and how the files were created. Information about the owner and creator of the files can also be included here. On the more legal side, administrative metadata defines what license has been applied to a resource, how the resource can be reused, and how long and under what conditions the resource will be archived. 
 
 * **Structural metadata** contains information about how a resource is organized and can also describe what one item’s relationship is to a larger collection. A book’s table of contents is a very good example of structural metadata. The table of contents tells you the book’s title, the names of the chapters, and their page numbers. It also points you to supplemental resources like the bibliography or index. A statement on the front cover of a book that tells you that it is part of a larger series can also be considered structural metadata. 
 
-* **Descriptive metadata** is the largest category of metadata. In short, descriptive metadata ensures that an item is finable. For example, in a library a book’s topic and unique call-number can be used to quickly locate it on the shelves. If data is archived online, a unique persistent identifier like a DOI might be used to ensure that resources can always be found again. Descriptive metadata also includes details like the resource’s title, author’s name, an abstract, and keywords. 
+* **Descriptive metadata** is the largest category of metadata. In short, descriptive metadata ensures that an item is findable and interpretable. For example, in a library a book’s topic and unique call-number can be used to quickly locate it on the shelves. If data is archived online, a unique persistent identifier like a DOI might be used to ensure that resources can always be found again. Descriptive metadata might also include explanations of column headings or controlled vocabularies that have been used to describe observations. 
 
-When you upload data to an archive or publish a paper you submit most of this information to the repository or publisher. In the best systems, this information is made machine-readable and can be picked-up by services likes search engines so that your data doesn’t get lost in the chaos that is the internet. Because metadata documents important attributes of your data and makes it finable, it is important that metadata creation be handled with care and consideration! 
+When you upload data to an archive or publish a paper you submit most of this information to the repository or publisher. In the best systems, this information is made machine-readable and can be picked-up by services like search engines so that your data doesn’t get lost in the chaos that is the internet. Because metadata documents important attributes of your data and makes it findable, it is important that metadata creation be handled with care and consideration! 
 
 ### FAIR data principles
-The FAIR Principles were designed to improve the infrastructure supporting the reuse of research data. The intention of these principles is to improve the Findability, Accessibility, Interoperability and Reuse of data. 
+The FAIR Principles were designed to support the sharing of research data. The intention of these principles is to improve the Findability, Accessibility, Interoperability and Reusability of data. 
 
-At the heart of FAIR Science lies good data management practice. This is increasingly important as life science research becomes data-intensive and traditional ‘wet labs’ make space for ‘dry (computer) labs’.
+At the heart of FAIR Science lies good data management practice. This is increasingly important as life science research becomes data-intensive and traditional ‘wet labs’ make space for ‘dry (computational) labs’.
 
 The increasing volume, complexity and speed of data creation has made scientists rely on computational support exponentially. Therefore, the FAIR Principles place specific emphasis on enhancing the ability of machines to automatically find and use data, as well as supporting its reuse by other scientists, which facilitates knowledge discovery and improves research transparency^1^.
 
@@ -292,22 +291,22 @@ To learn a bit more about the FAIR principles, check out this clip from the Univ
 Findable
 ================
 
-The first step in (re)using data is to find them. Metadata and data should be easy to find for both humans and computers. Machine-readable metadata are essential for automatic discovery of datasets and services, so this is an essential component of the FAIRification process.^2^ Data and their metadata should always be assigned a persistent unique identifier, like a DOI and this identifier should always be included in the metadata of an archived item. Data should also always be described by rich metadata that follows discipline specific standards whenever possible. Finally, this metadata should be machine-readable so that it is ultimately searchable. 
+The first step in (re)using data is to find them. Metadata and data should be easy to find for both humans and computers. Machine-readable metadata are essential for automatic discovery of datasets and services, so this is an essential component of the FAIRification process.^2^ Data and their metadata should always be assigned a persistent unique identifier, like a DOI and this identifier should always be included in the metadata of an archived item. Data should also always be described by rich metadata that follows discipline specific standards whenever possible.  
 
 Accessible
 ================
 
-For data to be accessible, how data can be accessed should be clear to others. This does not mean that everyone can access all archived data all the time. It simply means that who can access data and how it can be accessed is clear. All data the underlies a publication should be freely accessible unless there are legal or ethical reasons why it cannot be shared. Even if data are sensitive, there should be a clear protocol regarding how access can be requested. Furthermore, the metadata should always be open and accessible so that other researchers can find the data and estimate if it may be useful to them prior to requesting access. 
+For data to be accessible, how data can be axquired should be clear to others. This does not mean that everyone can access all archived data all the time. It simply means that who can access data and how it can be accessed is clear. All data the underlies a publication should be freely accessible unless there are legal or ethical reasons why it cannot be shared. Even if data are sensitive, there should be a clear protocol regarding how access can be requested. Furthermore, the metadata should always be open and accessible so that other researchers can find the data and estimate if it may be useful to them prior to requesting access. 
 
 ![FAIR Data Principles](https://www.ugent.be/img/doza/beleid/rdm/fair-data.png "[Image by Patrick Hochstenbach](https://www.ugent.be/img/doza/beleid/rdm/fair-data.png), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)")
 
 Interoperable
 ================
-When data is interoperable, it can be effectively combined with other datasets. This means that data is described in enough detail that other researchers will be able to assess the data’s quality and will be able to confidently combine it with other equally standardized datasets. File type is also an import part of interoperability. You may have the best organized and documented data in the world, but if it stored in proprietary file type that no one else can open, it won’t be of much use. Because of this, you should always opt for non-proprietary file types whenever possible. 
+When data is interoperable, it can be effectively combined with other datasets. This means that data is described in enough detail that other researchers will be able to assess the data’s quality and will be able to confidently combine it with other equally standardized datasets. File type is also an import part of interoperability. You may have the best organized and documented data in the world, but if it is stored in proprietary file type that no one else can open, it won’t be of much use. Because of this, you should always opt for non-proprietary file types whenever possible. 
 
 Reuseable
 ================
-We discussed reusability a lot when we covered the research data life cycle, so we won’t be labor it here. In addition to making sure that your data is well documented and in an appropriate file format, a license should also be applied to your data or code that explains under what conditions your materials can be re-used. Remember that you should always assign a license. If no license is assigned, then the materials cannot be reused. We’ll talk more about picking an appropriate license a little later. 
+We discussed reusability a lot when we covered the research data life cycle, so we won’t be labor it here. In addition to making sure that your data is well documented and in an appropriate file format, a license should also be applied to your data or code that explains under what conditions your materials can be re-used. Remember that you should almost always assign a license. If no license is assigned, then the materials cannot be reused. We’ll talk more about picking an appropriate license a little later. 
 
 If you are especially curious about how to make your data FAIR and about how FAIR data supports Open Science, you can check-out the [go-fair.org](https://www.go-fair.org/fair-principles/) website on the FAIR principles or read [Wilkinson et al.’s 2016](https://doi.org/10.1038/sdata.2016.18) paper on the FAIR principles and data stewardship. 
 
@@ -319,11 +318,11 @@ Over the past few pages we have talked a lot about the RDM, the research data li
 
 * **Be reusable:** Research outputs need to be licensed appropriately, so that prospective users know any limitations on re-use.
 
-* **Be transparent:** With appropriate metadata to provide clear statements of how research output was produced and what it contains.
+* **Be transparent:** With appropriate metadata to provide clear statements of how a research output was produced and what it contains.
 
 ![Fig.11 Turing Way Project](https://the-turing-way.netlify.app/_images/evolution-open-research.png "[Fig. 11 Turing Way Project](https://the-turing-way.netlify.app/_images/evolution-open-research.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)")
 
-There are several schools of thought motivating open research practices, but they are not mutually exclusive. In fact, they are highly compatible. Here are just a few common beliefs surround open research and their goals^3^: 
+There are several schools of thought motivating open research practices, but they are not mutually exclusive. In fact, they are highly compatible. Here are just a few common beliefs surrounding open research and their goals^3^: 
 
 | Belief   | Goal     |
 | -------- | -------- |
@@ -333,9 +332,9 @@ There are several schools of thought motivating open research practices, but the
 |The access to knowledge should be equally distributed, but currently is not.|Generate new systems that ensure knowledge is freely available for everyone.|
 |Research is publicly funded and needs to be made accessible to the public.|Develop ways of making research accessible for citizens and reward researchers invest time in thsi practice.|
 
-You might think that these beliefs and goals sound great, but you're an early career researcher. You're worried about getting your next position, producing well-cited papers, securing grants, and making a name for yourself. You're not vane, you just know that academic job market is a bit of a jungle. So, here's another RDM secret. Researchers have studied publication dynamics  there seems to be be significant evidence supporting the hypothesis that open access articles are cited more often than those published under more restricted conditions. To learn more, we highly recommend reading [McKiernan et al's 2016 paper](https://doi.org/10.7554/eLife.16800) discussing this issue.
+You might think that these beliefs and goals sound great, but you're an early career researcher. You're worried about getting your next position, producing well-cited papers, securing grants, and making a name for yourself. You're not vane, you just know that academic job market is a bit of a jungle. So, here's another RDM secret. Researchers have studied publication dynamics and  there seems to be be significant evidence supporting the hypothesis that open access articles are cited more often than those published under more restricted conditions. To learn more, we highly recommend reading [McKiernan et al's 2016 paper](https://doi.org/10.7554/eLife.16800) discussing this issue.
 
-If you intend to publish an open-access article at UNIVIE and do not have grant funding, such as from FWF or EU funding, covering the OA publication fees, it is advisable to check out the [Open Access Office](https://openaccess.univie.ac.at/en/), which can provide funding for the publication fees.
+If you intend to publish an open-access article at UNIVIE and do not have grant funding that covers OA publication fees, check out the [Open Access Office](https://openaccess.univie.ac.at/en/), which can provide funding for the publication fees and help guide you through the publication process.
 
 Quiz
 ================
@@ -374,11 +373,10 @@ Learning Objectives
 2. Explain why DMPs are helpful and how they can ensure research data is FAIR. 
 3. Identify where help for generating DMPs can be found at the University of Vienna. 
 
-What is a Data Management Plan (DMP)?
---------------------
+### What is a Data Management Plan (DMP)?
 The phrase "Data Management Plan” sounds hopelessly bureaucratic, but it actually describes a critical step in developing and implementing a research project. According to UNIVIE a DMP “describes how research data should be handled, and is therefore a tool for research data management. The plan explains which data are collected or generated during a research activity and specifies what needs to be done during the data lifecycle, i.e. the whole data process (storage, publication, citation, long-term availability, pseudonymisation, anonymisation, reuse, deletion, etc.).” 
 
-Many funding agencies require that researchers create a DMP for projects, but DMPs make useful tools even if they are not requested by a granting agency. We’ll talk more about that later, but we should probably discuss what you include in a DMP first. If a funding agency requires that you create a DMP, they will probably have a template that you should use. This ensures that you supply the correct information in a format that program officers can quickly evaluate. The two most common templates in Austria are currently provided by the Österreichischer Wissenschaftsfonds FWF and by the European Research Council (ERC)/ Horizon Europe programs. Both templates cover similar information, but in a very different layout. The Horizon Europe template asks researchers discuss how they will meet the requirements of each FAIR principle, while the FWF guides researchers through a series of step-by-step questions addressing practical issues related to data management and FAIR practices. 
+Many funding agencies require that researchers create a DMP for projects, but DMPs make useful tools even if they are not requested by a granting agency. We’ll talk more about that later, but we should probably discuss what you include in a DMP first. If a funding agency requires that you create a DMP, they will probably have a template that you should use. This ensures that you supply the correct information in a format that program officers can quickly evaluate. The two most common templates in Austria are currently provided by the Österreichischer Wissenschaftsfonds FWF and by the European Research Council (ERC)/ Horizon Europe programs. Both templates cover similar information, but in a very different layout. The ERC/ Horizon Europe template asks researchers discuss how they will meet the requirements of each FAIR principle, while the FWF guides researchers through a series of step-by-step questions addressing practical issues related to data management and FAIR practices. 
 
 We recommend looking at both templates to familiarize yourself. You can find them at the links below.
   
@@ -386,7 +384,7 @@ We recommend looking at both templates to familiarize yourself. You can find the
 [ERC/Horizon Europe DMP Manual](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
 [FWF DMP Template](https://www.fwf.ac.at/fileadmin/files/Dokumente/Open_Access/FWF_DMPTemplate_e.docx)
 
-![Errant Scientist Data Management Plan Quality](https://gcdnb.pbrd.co/images/wNFNEbBN8Jsn.png?o=1 "[Quality of Data Management Plans Remains Variable by Errant Science](https://www.facebook.com/ErrantScience/photos/pcb.1990372917918682/1990372521252055/?type=3&theater), [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)")
+![Errant Scientist Data Management Plan Quality](https://scontent-vie1-1.xx.fbcdn.net/v/t31.18172-8/23916468_1990372521252055_5342830523000209050_o.png?_nc_cat=104&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=urufjcz3HFgAX-ZDY77&_nc_ht=scontent-vie1-1.xx&oh=00_AfDgUFnrphg1o4cEFuUyfuLp9H9Jco3_pxZYYE73tygdcQ&oe=65DB1CA6 "[Quality of Data Management Plans Remains Variable by Errant Science](https://scontent-vie1-1.xx.fbcdn.net/v/t31.18172-8/23916468_1990372521252055_5342830523000209050_o.png?_nc_cat=104&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=urufjcz3HFgAX-ZDY77&_nc_ht=scontent-vie1-1.xx&oh=00_AfDgUFnrphg1o4cEFuUyfuLp9H9Jco3_pxZYYE73tygdcQ&oe=65DB1CA6), [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)")
 
 As we said above, if you are submitting a DMP to a granting agency you should use the template provided, but if no template is available or you are writing the DMP for your own reference, we highly recommend using the FWF materials to assist you. Overall, the FWF provides a thorough list of issues you should consider and gives a good list of practical questions to answer. 
 
@@ -405,15 +403,14 @@ Regardless of your DMP’s format, there are some topics you should always cover
 
 We'll work more on writing a good DMP during the in-person portion of this course and do some exercises that will get you on the right path, but before we move on let's make sure we codify how writing a DMP can help you. 
 
-How DMPs Help
---------------------
-Here's the deal. Nothing in your deep evolutionary past prepared you to be a great scientist. Being a good scientist requires long-term planning and organization, and our brains are much more focused on short-term payouts released by sugar, fat, salt, and TikTok, that fuel our inherent dopamine addiction. That’s why we have to formulate plans about making plans...draw-up plans...and follow the plan. 
+### How DMPs Help
+Here's the deal. Nothing in your deep evolutionary past prepared you to be a great scientist. Being a good scientist requires long-term planning and organization and our brains are much more focused on the short-term payouts released by sugar, fat, salt, and TikTok, that fuel our inherent dopamine addiction. That’s why we have to formulate plans about making plans...draw-up plans...and follow the plan. 
 
 ![Planning by XKCD](https://imgs.xkcd.com/comics/planning.png "[Planning by XKCD](https://xkcd.com/2755), [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/legalcode0)")
 
 A lot of people will tell you that writing a DMP is a silly administrative task that slows down the pace of scientific discovery, but we find that it can actually save time and make researchers more confident about the progress of their projects. Sometimes writing a DMP is a bit like eating your green vegetables. You might now want to do it, but you know you should. Here are a few ways writing a DMP now can help you in the future. 
 
-1. A DMP describes how you will organize and document your data from the start, so you don't lose important information or spends days reorganizing files at the end of the project. 
+1. A DMP describes how you will organize and document your data from the start, so you don't lose important information or spend days reorganizing files at the end of the project. 
 2. Having a data storage and back-up plan makes it more likely that your data will be safe and secure. No one wants to re-do experiments because a computer crashed.
 3. Selecting potential repositories and publishing options forces you to assess if a portion of your budget will be needed to maintain and archive your data properly, so that you aren’t surprised later with unexpected costs.
 4. Detailing usage rights, responsibilities, and licensing choices early helps to limit conflicts and disagreements between project members later in the project.
@@ -430,7 +427,7 @@ At CMESS, Michael Feichtinger is the data steward and you can reach him at micha
 
 Emliy Kate is the data steward for the Faculty of Life Sciences and you can email her at emliy.jean.kate@univie.ac.at. 
 
-Alternatively, you can always reach the UNIVIE RDM team at rdm@univie.ac.at. They're available to anyone at the university and are alway ready to help! No question too small! No mess too big!
+Alternatively, you can always reach the UNIVIE RDM team at rdm@univie.ac.at. They're available to anyone at the university and are always ready to help! No question too small! No mess too big!
 
 Quiz
 ================
