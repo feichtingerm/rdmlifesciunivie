@@ -20,8 +20,8 @@ Before we delve into the exciting world of Research Data Management (RDM), we wa
 
 Blended Learning and Our Plan
 --------------------
-This course is designed around a concept called “blended learning”, which is a fancy way of saying that we use both online and in-person learning resources. In our case, you will have until March 17th to complete the online modules here on Moodle. The Moodle portion of the course should take you around 2.5-3 hours and we recommend you complete the modules in-order but you don't have to do them all at once.
-On March 18th and 19th (9:00-12:00 each day), we will meet in-person in UBB SR 1.6 (on the 18th) and UBB SR 1.5 (on the 19th) to delve deeper into the mysteries of RDM. Intriguing, we know.
+This course is designed around a concept called “blended learning”, which is a fancy way of saying that we use both online and in-person learning resources. In our case, you will have until June 17th to complete the online modules here on Moodle. The Moodle portion of the course should take you around 2.5-3 hours and we recommend you complete the modules in-order but you don't have to do them all at once.
+On June 18th and 19th (9:00-12:00 each day), we will meet in-person in UBB SR 1.8 (on the 18th) and UBB SR 1.6 (on the 19th) to delve deeper into the mysteries of RDM. Intriguing, we know.
 
 ![The Upturned Microscope](https://upmic.files.wordpress.com/2019/05/epfl-may2019-flipped-classroom.png?w=650&h=199 " [Flipped Classroom by Upturned Microscope](https://upmic.files.wordpress.com/2019/05/epfl-may2019-flipped-classroom.png?w=650&h=199),[CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/)")
 
