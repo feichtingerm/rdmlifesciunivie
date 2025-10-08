@@ -20,8 +20,7 @@ Before we delve into the exciting world of Research Data Management (RDM), we wa
 
 Blended Learning and Our Plan
 --------------------
-This course is designed around a concept called “blended learning”, which is a fancy way of saying that we use both online and in-person learning resources. In our case, you will have until March 19th to complete the online modules here on Moodle. The Moodle portion of the course should take you around 2.5-3 hours and we recommend you complete the modules in-order but you don't have to do them all at once.
-On March 19th and 20th (9:00-12:00 each day), we will meet in-person in UBB (see Moodle or u:rise for details) to delve deeper into the mysteries of RDM. Intriguing, we know.
+This course is designed around a concept called “blended learning”, which is a fancy way of saying that we use both online and in-person learning resources. In our case, you will have until the beginning of the in-person workshop to complete the online modules here on Moodle. The Moodle portion of the course should take you around 2.5-3 hours and we recommend you complete the modules in-order but you don't have to do them all at once.
 
 ![The Upturned Microscope](https://upmic.files.wordpress.com/2019/05/epfl-may2019-flipped-classroom.png?w=650&h=199 " [Flipped Classroom by Upturned Microscope](https://upmic.files.wordpress.com/2019/05/epfl-may2019-flipped-classroom.png?w=650&h=199),[CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/)")
 
@@ -32,10 +31,6 @@ Diligent student that you are, you may be wondering about assignments, quizzes, 
 
 ![XKCD Priorities](https://imgs.xkcd.com/comics/priorities.png " [Priorities by XKCD](https://xkcd.com/336),[CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/legalcode0)")
 
-
-The Pre-Learning Assessment 
---------------------
-With that said, there is one place where we will be recording your answers. That’s the prior knowledge assessment. **YOU SHOULD COMPLETE THE PRIOR KNOWLEDGE ASSESSMENT BEFORE DOING ANY OF THE COURSE MODULES.** This assessment allows us to track your knowledge level before you started the course, so that we can estimate what you have learned during your time with us. We know it might be tempting to reach for Google or ChatGPT while you fill-out the assessment, but please don’t! Just try to answer the questions. Your answers can be vague. “I don’t know the answer to this question” is even a valid response. Honestly, this assessment tests out abilities as educators, not your knowledge as a student.
 
 The Course Map
 --------------------
@@ -1284,4 +1279,5 @@ Korenman, Stanley G. Teaching the responsible conduct of research in humans (RCR
 Videos and Images
 ---------------------------
 **A link to the source material for the course's images and videos can be found under each item.**
+
 
